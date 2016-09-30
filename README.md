@@ -22,4 +22,9 @@ During the workshop, you will use git to collabortively develop chutes and deplo
 
 ## Starter Chutes
 
-TODO: Make github projects for the example chutes (network test, seccam, parental control) and add the links here.  Groups should fork the starter project, add their own code, and launch it on their routers.
+Your group will work on several Paradrop chutes during the workshop.  We have posted starter projects on github that you can fork and start working.
+
+### Network Test
+
+[Network Test Starter Chute](https://github.com/ParadropLabs/NetworkTestStarterChute)
+
