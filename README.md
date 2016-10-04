@@ -28,3 +28,10 @@ Your group will work on several Paradrop chutes during the workshop.  We have po
 
 [Network Test Starter Chute](https://github.com/ParadropLabs/NetworkTestStarterChute)
 
+### Security Camera
+
+[Security Camera Starter Chute](https://github.com/ParadropLabs/Security-Cam)
+
+### Parental Control
+
+[Parental Control Starter Chute](https://github.com/ParadropLabs/ParentalControlStarterChute)
