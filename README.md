@@ -35,3 +35,29 @@ Your group will work on several Paradrop chutes during the workshop.  We have po
 ### Parental Control
 
 [Parental Control Starter Chute](https://github.com/ParadropLabs/ParentalControlStarterChute)
+
+## Debugging a Chute
+
+The Paradrop routers have SSH access enabled.  You can use this to
+inspect the running state and filesystem contents of your chute(s).
+You will be given login details during the workshop.
+
+### List running Docker containers
+
+```bash
+docker ps --all
+```
+
+If you have a chute installed and running, you should notice a line with
+the chute name.
+
+### Open a shell inside a chute's container
+
+```bash
+docker exec -it <chute name> /bin/bash
+```
+
+With this shell, you can read and modify files inside the chute,
+install packages, etc.  All of our starter chutes come with emacs and
+vim installed by default.  If you wish to make any changes permanent,
+remember to add them to your git repository.
