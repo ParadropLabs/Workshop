@@ -26,15 +26,21 @@ Your group will work on several Paradrop chutes during the workshop.  We have po
 
 ### Network Test
 
+This chute runs periodic network tests and displays the results in a webpage.
+
 [Network Test Starter Chute](https://github.com/ParadropLabs/NetworkTestStarterChute)
-
-### Security Camera
-
-[Security Camera Starter Chute](https://github.com/ParadropLabs/Security-Cam)
 
 ### Parental Control
 
+This chute runs a WiFi access point with content filtering and configurable blocking.
+
 [Parental Control Starter Chute](https://github.com/ParadropLabs/ParentalControlStarterChute)
+
+### Security Camera
+
+This chute implements a motion detection system using a wireless camera.
+
+[Security Camera Starter Chute](https://github.com/ParadropLabs/Security-Cam)
 
 ## Debugging a Chute
 
