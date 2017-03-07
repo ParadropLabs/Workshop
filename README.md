@@ -91,7 +91,7 @@ You will be given login details during the workshop.
 ### List running Docker containers
 
 ```bash
-docker ps --all
+sudo docker ps --all
 ```
 
 If you have a chute installed and running, you should notice a line with
@@ -100,7 +100,7 @@ the chute name.
 ### Open a shell inside a chute's container
 
 ```bash
-docker exec -it <chute name> /bin/bash
+sudo docker exec -it <chute name> /bin/bash
 ```
 
 With this shell, you can read and modify files inside the chute.  If you
