@@ -42,6 +42,11 @@ This chute implements a motion detection system using a wireless camera.
 
 [Security Camera Chute](https://github.com/ParadropLabs/Security-Cam)
 
+We will not be working on the web app portion of the chute during this tutorial, but
+if you are curious, the original source code is available as well.
+
+[Security Camera Web App](https://github.com/LOZORD/paradrop-seccam/tree/master/new-sec-cam)
+
 ### Sticky Board
 
 This chute lets people post photos to a local image board that
@@ -106,3 +111,11 @@ sudo docker exec -it <chute name> /bin/bash
 With this shell, you can read and modify files inside the chute.  If you
 wish to make your code changes permanent, remember to add them to your
 git repository.
+
+## Survey
+
+Please complete this anonymous survey at the end of the tutorial.
+It will only take a few minutes, and your feedback will really help us
+to improve ParaDrop for future developers.
+
+[Survey](https://uwmadison.co1.qualtrics.com/SE/?SID=SV_eG2kc5nKR2czjHD)
